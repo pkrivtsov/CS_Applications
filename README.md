@@ -1,1 +1,1 @@
-# CS_Applications
+# Клиент-серверные приложения на Python
